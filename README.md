@@ -1,6 +1,7 @@
 # Итоги изучения дисциплины "Математическая логика и теория автоматов" в течении двух семестров.
 
-![]()
+![](https://github.com/MikhailCherepanovD/AutomataTheorySummary/blob/master/AutomataTheory.png)
+
 
 ###  Преподаватель - Алексей Владимирович Востров, СПБПУ, МКН
 
